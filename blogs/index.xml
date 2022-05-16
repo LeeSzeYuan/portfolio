@@ -8,6 +8,42 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://leeszeyuan.github.io/portfolio/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Customer Profiling with Cluster Analysis</title>
+      <link>https://leeszeyuan.github.io/portfolio/blogs/customer-profiling/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://leeszeyuan.github.io/portfolio/blogs/customer-profiling/</guid>
+      <description>&lt;p&gt;Clustering Analysis on Customer Personality&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DClaim - Insurance Claim Management System</title>
+      <link>https://leeszeyuan.github.io/portfolio/blogs/dclaim/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://leeszeyuan.github.io/portfolio/blogs/dclaim/</guid>
+      <description>&lt;p&gt;car insurance claim fraud detection system&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Image Classification - A Large Scale Fish Dataset </title>
+      <link>https://leeszeyuan.github.io/portfolio/blogs/fish-image-dataset/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://leeszeyuan.github.io/portfolio/blogs/fish-image-dataset/</guid>
+      <description>&lt;p&gt;Deep Learning Image Classification&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fraudulent Credit Card Transaction Classification</title>
+      <link>https://leeszeyuan.github.io/portfolio/blogs/fraud-credit-card-transaction/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      
+      <guid>https://leeszeyuan.github.io/portfolio/blogs/fraud-credit-card-transaction/</guid>
+      <description>&lt;p&gt;Kaggle Notebook - Fraudulent Credit Card Transaction Classification&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax</title>
       <link>https://leeszeyuan.github.io/portfolio/blogs/markdown-syntax/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
